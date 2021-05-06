@@ -1,0 +1,16 @@
+C:\Users\Tiago\Documents\GitHub\APP.CadastroSeries\obj\Debug\net5.0\APP.CadastroSeries.csprojAssemblyReference.cache
+C:\Users\Tiago\Documents\GitHub\APP.CadastroSeries\obj\Debug\net5.0\APP.CadastroSeries.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tiago\Documents\GitHub\APP.CadastroSeries\obj\Debug\net5.0\APP.CadastroSeries.AssemblyInfoInputs.cache
+C:\Users\Tiago\Documents\GitHub\APP.CadastroSeries\obj\Debug\net5.0\APP.CadastroSeries.AssemblyInfo.cs
+C:\Users\Tiago\Documents\GitHub\APP.CadastroSeries\obj\Debug\net5.0\APP.CadastroSeries.csproj.CoreCompileInputs.cache
+C:\Users\Tiago\Documents\GitHub\APP.CadastroSeries\bin\Debug\net5.0\APP.CadastroSeries.exe
+C:\Users\Tiago\Documents\GitHub\APP.CadastroSeries\bin\Debug\net5.0\APP.CadastroSeries.deps.json
+C:\Users\Tiago\Documents\GitHub\APP.CadastroSeries\bin\Debug\net5.0\APP.CadastroSeries.runtimeconfig.json
+C:\Users\Tiago\Documents\GitHub\APP.CadastroSeries\bin\Debug\net5.0\APP.CadastroSeries.runtimeconfig.dev.json
+C:\Users\Tiago\Documents\GitHub\APP.CadastroSeries\bin\Debug\net5.0\APP.CadastroSeries.dll
+C:\Users\Tiago\Documents\GitHub\APP.CadastroSeries\bin\Debug\net5.0\ref\APP.CadastroSeries.dll
+C:\Users\Tiago\Documents\GitHub\APP.CadastroSeries\bin\Debug\net5.0\APP.CadastroSeries.pdb
+C:\Users\Tiago\Documents\GitHub\APP.CadastroSeries\obj\Debug\net5.0\APP.CadastroSeries.dll
+C:\Users\Tiago\Documents\GitHub\APP.CadastroSeries\obj\Debug\net5.0\ref\APP.CadastroSeries.dll
+C:\Users\Tiago\Documents\GitHub\APP.CadastroSeries\obj\Debug\net5.0\APP.CadastroSeries.pdb
+C:\Users\Tiago\Documents\GitHub\APP.CadastroSeries\obj\Debug\net5.0\APP.CadastroSeries.genruntimeconfig.cache
